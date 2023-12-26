@@ -1,5 +1,6 @@
 package com.bootcamp.basicjavaclass1;
 
+
 import com.bootcamp.basicjavaclass2.InstanceVariableDemo;
 
 public class FirstDay {
