@@ -34,7 +34,7 @@ public class MethodOverloadingDemo {
 	public static void main(String[] args) {
 
 		MethodOverloadingDemo obj = new MethodOverloadingDemo();
-		obj.getSum(10, 20, 30);
+		obj.getSum(10.0, 20.0);
 	}
 
 }
