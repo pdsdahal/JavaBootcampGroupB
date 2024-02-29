@@ -12,9 +12,6 @@ public final class FinalDiscussion {
 		final double num1 = 3.14;
 		final String collegegName = "ABc";
 		
-		
-		
-		
 	}
 
 }
